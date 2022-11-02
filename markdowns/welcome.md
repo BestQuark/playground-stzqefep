@@ -9,6 +9,15 @@ The source code is on [GitHub](https://github.com/TechDotIO/python-template), pl
 
 @[Luke, how many stars are there in these galaxies?]({"stubs": ["universe.py"], "command": "python3 test_universe.py"})
 
+@[Get crypto data using the binance API ]({"stubs": ["binance/get_data.py"], "command": "python3 binance/get_data.py"})
+
+@[Get intagram unfollows]({"stubs": ["instapy/get_unfollows.py"], "command": "python3 instapy/get_unfollows.py"})
+
+@[Make a math animation]({"stubs": ["manim/intro_animation.py"], "command": "python3 manim/intro_animation.py"})
+
+@[Make a simple website]({"stubs": ["streamlit/intro_website.py"], "command": "python3 streamlit/intro_website.py"})
+
+
 Check out the markdown file [`welcome.md`](https://github.com/TechDotIO/python-template/blob/master/markdowns/welcome.md) to see how this exercise is injected into the template.
 
 # Template Resources
